@@ -3,6 +3,7 @@
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3lvc2Frb2kudGs6NTcxNi9kL0FsaXN0L3R2Ym94L3R2L2JjLnR4dA=="]}]}],
 
 site:[
+{"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=fc5c34a048554bd58210824bc86ce5eb&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"360","name":"360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"KanSJ","name":"看世界","type":3,"api":"csp_KanSJ","searchable":1,"quickSearch":1,"filterable":1},
