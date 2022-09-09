@@ -1,8 +1,6 @@
 {
-"spider":"http://raw.githubusercontent.com/roseadmin/yet/t/custom_spider.jar",
-
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/roseadmin/yet/main/t/custom_spider.jar?raw=true;md5;8d29a86d985a54225af22a82bb9328ee",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3lvc2Frb2kudGs6NTcxNi9kL0FsaXN0L3R2Ym94L3R2L2JjLnR4dA=="]}]}],
-
 
 site:[
 {"key":"360","name":"360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
@@ -30,3 +28,4 @@ site:[
 {"key":"zhaozy","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/roseadmin/yet/main/t/token.json"},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/roseadmin/yet/main/t/token.json"}
 ]
+}
