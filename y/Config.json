@@ -1,5 +1,7 @@
 { 
   "sites": [
+{"key": "T4","name": "T4爬虫","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=fc5c34a048554bd58210824bc86ce5eb&timeout=10","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=fc5c34a048554bd58210824bc86ce5eb&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
     {
       "key": "极速",
       "name": "极速〔聚〕",
@@ -170,7 +172,25 @@
     }
   ],
   "flags": [
-    ""
+    "youku",
+    "qq",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "tudou",
+    "pptv",
+    "mgtv",
+    "wasu",
+    "bilibili",
+    "xigua",
+    "renrenmi",
+    "ltnb",
+    "CL4K",
+    "rx",
+    "dmplay",
+    "duoduozy",
+    "xfyun"
   ],
   "parses": [
     {"name":"解析聚合","type":3,"url":"Demo"},
