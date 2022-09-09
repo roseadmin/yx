@@ -6,7 +6,7 @@
 		"channels": [{
 			"name": "live",
 			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vend4L2l0di9yYXcvYnJhbmNoL2Rldi92L2xpdmUudHh0"]
-		}]}]
+		}]
 "sites":[
     {"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=fc5c34a048554bd58210824bc86ce5eb&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"360","name":"360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
