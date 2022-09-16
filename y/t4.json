@@ -49,7 +49,7 @@
     		]
         }
     }],
-	"spider": "https://gitea.com/zwx/itv/raw/branch/dev/jar/ys.jar",
+	"spider": "https://roseadmin.github.io/ysp/ys.jar",
 	"wallpaper": "https://gitea.com/zwx/itv/raw/branch/dev/bg.jpg",
 	"lives": [{
 		"group": "redirect",
