@@ -1,6 +1,6 @@
 ﻿{
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-"spider": "https://ghproxy.com/https://raw.githubusercontent.com/roseadmin/yet/main/y/nt.jar?raw=true;md5;e43a84197bf0dcac50990fbc7f2ca470",
+"spider": "https://ghproxy.com/https://raw.githubusercontent.com/roseadmin/yx/main/y/nt.jar?raw=true;md5;e43a84197bf0dcac50990fbc7f2ca470",
 
 
 # 直播
