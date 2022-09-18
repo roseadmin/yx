@@ -8,7 +8,7 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 
-"spider":"http://127.0.0.1:8181/cat/ts/sp/ts0621.jar",
+"spider":"https://roseadmin.github.io/yx/ts0621.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":[
 "proxy://do=live&type=txt&ext=Y2xhbjovL2NhdC90cy90di9saXZlLnR4dA=="
