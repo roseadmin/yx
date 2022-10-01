@@ -1,5 +1,18 @@
 {
   "spider": "https://roseadmin.github.io/yx/ysp/custom_spider.jar;md5;4df8a8eafa60db019d44d86b22f55edc",
+  "lives": [
+    {
+      "group": "redirect",
+      "channels": [
+        {
+          "name": "live",
+          "urls": [
+            "proxy://do=live&type=txt&ext=aHR0cDovL3R2Lmp0aG4uY24vbGl2ZXMvbGl2ZV9wbHVzLnR4dA=="
+          ]
+        }
+      ]
+    }
+  ],
   "sites": [
     {
       "key": "Lezhu_spider",
@@ -281,19 +294,6 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "3781469b13074e4cac1e0e7113e4fa20"
-    }
-  ],
-  "lives": [
-    {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "live",
-          "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cDovL3R2Lmp0aG4uY24vbGl2ZXMvbGl2ZV9wbHVzLnR4dA=="
-          ]
-        }
-      ]
     }
   ],
   "parses": [
