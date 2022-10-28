@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/top97.jar",
+  "spider": "https://roseadmin.github.io/yx/y/top97.jsontop97.jar",
   "lives": [
     {
       "group": "redirect",
