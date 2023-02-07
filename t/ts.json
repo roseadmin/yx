@@ -1,190 +1,190 @@
 {
-  “蜘蛛”：“https://ghproxy.com/https://raw.githubusercontent.com/roseadmin/yx/main/t/custom_spider.jar;md5;4f59dbb5aa3eebcfebd3df5d216d83a8”,
-  "壁纸": "http://www.kf666888.cn/api/tvbox/img",
-  “生活”：[
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/roseadmin/yx/main/t/custom_spider.jar;md5;4f59dbb5aa3eebcfebd3df5d216d83a8",
+  "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+  "lives": [
     {
       "name": "直播",
-      “类型”：1，
+      "type": 1,
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
-      “标志”：“http://epg.51zmt.top:8000/{标志}”
+      "logo": "http://epg.51zmt.top:8000/{logo}"
     }
   ],
-  “网站”：[
+  "sites": [
     {
-      “键”：“列表”，
+      "key": "AList",
       "name": "AList",
-      “类型”：3，
+      "type": 3,
       "api": "csp_AList",
-      “可搜索”：1，
-      “可过滤”：1，
-      “可切换”：0，
-      “分机”：“https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json”
+      "searchable": 1,
+      "filterable": 1,
+      "switchable": 0,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
     },
     {
       "key": "哔哩",
       "name": "哔哩",
-      “类型”：3，
+      "type": 3,
       "api": "csp_Bili",
-      “可搜索”：1，
-      “可过滤”：1，
-      “可切换”：0，
-      “分机”：“https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json”
+      "searchable": 1,
+      "filterable": 1,
+      "switchable": 0,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"
     },
     {
       "key": "泥巴",
       "name": "泥巴",
-      “类型”：3，
+      "type": 3,
       "api": "csp_NiNi",
-      “可搜索”：1，
-      “可过滤”：1，
-      “可切换”：1
+      "searchable": 1,
+      "filterable": 1,
+      "switchable": 1
     },
     {
       "key": "快播",
       "name": "快播",
-      “类型”：1，
+      "type": 1,
       "api": "https://www.kuaibozy.com/api.php/provide/vod/",
-      “可搜索”：1，
-      “可过滤”：0，
-      “可切换”：1，
-      “类别”：[
-        "动画",
-        《国产剧》，
-        《日韩剧》，
-        《港台剧》，
-        《欧美剧》，
-        《泰剧》，
-        "动画片",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 1,
+      "categories": [
+        "动漫",
+        "国产剧",
+        "日韩剧",
+        "港台剧",
+        "欧美剧",
+        "泰剧",
+        "动作片",
         "喜剧片",
         "爱情片",
         "科幻片",
         "恐怖片",
         "剧情片",
-        《战片》，
+        "战争片",
         "纪录片",
-        《综艺》
+        "综艺"
       ]
     },
     {
       "key": "百度",
       "name": "百度",
-      “类型”：1，
+      "type": 1,
       "api": "https://api.apibdzy.com/api.php/provide/vod/",
-      “可搜索”：1，
-      “可过滤”：0，
-      “可切换”：1，
-      “类别”：[
-        《国产动画》，
-        《日韩动画》，
-        《大陆剧》，
-        《欧美剧》，
-        《韩剧》，
-        《日剧》，
-        "动画片",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 1,
+      "categories": [
+        "国产动漫",
+        "日韩动漫",
+        "大陆剧",
+        "欧美剧",
+        "韩剧",
+        "日剧",
+        "动作片",
         "喜剧片",
         "爱情片",
         "科幻片",
         "恐怖片",
         "剧情片",
-        《战争片》
+        "战争片"
       ]
     },
     {
-      "key": "樱花",
-      "name": "樱花",
-      “类型”：3，
-      "api": "csp_英",
-      “可搜索”：1，
-      “可过滤”：1，
-      “可切换”：1
+      "key": "櫻花",
+      "name": "櫻花",
+      "type": 3,
+      "api": "csp_Ying",
+      "searchable": 1,
+      "filterable": 1,
+      "switchable": 1
     },
     {
       "key": "巴士",
       "name": "巴士",
-      “类型”：3，
+      "type": 3,
       "api": "csp_Dm84",
-      “可搜索”：1，
-      “可过滤”：1，
-      “可切换”：1
+      "searchable": 1,
+      "filterable": 1,
+      "switchable": 1
     },
     {
-      "key": "异界",
-      "name": "异界",
-      “类型”：3，
+      "key": "異界",
+      "name": "異界",
+      "type": 3,
       "api": "csp_Ysj",
-      “可搜索”：1，
-      “可过滤”：1，
-      “可切换”：1
+      "searchable": 1,
+      "filterable": 1,
+      "switchable": 1
     },
     {
-      "key": "纸条",
-      "name": "纸条",
-      “类型”：3，
+      "key": "紙條",
+      "name": "紙條",
+      "type": 3,
       "api": "csp_Paper",
-      “可搜索”：1，
-      “可过滤”：1，
-      “可切换”：0，
+      "searchable": 1,
+      "filterable": 1,
+      "switchable": 0,
       "ext": "http://我不是.肥猫.love:63/token.php"
     },
     {
-      "key": "易搜索",
+      "key": "易搜",
       "name": "易搜",
-      “类型”：3，
+      "type": 3,
       "api": "csp_YiSo",
-      “可搜索”：1，
-      “可过滤”：0，
-      “可切换”：0，
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
       "ext": "http://我不是.肥猫.love:63/token.php"
     },
     {
-      "key": "盘搜索",
-      "name": "盘搜索",
-      “类型”：3，
-      "api": "csp_盘搜",
-      “可搜索”：1，
-      “可过滤”：0，
-      “可切换”：0，
+      "key": "盤搜",
+      "name": "盤搜",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
       "ext": "http://我不是.肥猫.love:63/token.php"
     },
     {
-      "key": "UP云搜索",
-      "name": "UP云搜索",
-      “类型”：3，
+      "key": "UP雲搜",
+      "name": "UP雲搜",
+      "type": 3,
       "api": "csp_UpYun",
-      “可搜索”：1，
-      “可过滤”：0，
-      “可切换”：0，
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
       "ext": "http://我不是.肥猫.love:63/token.php"
     },
     {
-      "key": "寻找资源",
-      "name": "寻找资源",
-      “类型”：3，
-      "api": "csp_兆智",
-      “可搜索”：1，
-      “可过滤”：0，
-      “可切换”：0，
+      "key": "找資源",
+      "name": "找資源",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
       "ext": "http://我不是.肥猫.love:63/token.php$$$yingshi$$$abcd1234"
     },
     {
-      “钥匙”：“直播”，
+      "key": "Live",
       "name": "直播",
-      “类型”：3，
+      "type": 3,
       "api": "csp_Live",
-      “可搜索”：0，
-      “可过滤”：0，
-      “可切换”：0，
-      “分机”：“2000”
+      "searchable": 0,
+      "filterable": 0,
+      "switchable": 0,
+      "ext": "2000"
     },
     {
-      “钥匙”：“推送代理”，
+      "key": "push_agent",
       "name": "推送",
-      “类型”：3，
+      "type": 3,
       "api": "csp_Push",
-      “可搜索”：1，
-      “可过滤”：0，
-      “可切换”：0，
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
       "ext": "http://我不是.肥猫.love:63/token.php"
     }
   ]
