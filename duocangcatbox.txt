@@ -1,0 +1,140 @@
+{
+  "storeHouse": [
+    {
+      "sourceName": "\u516C\u4F17\u53F7\u543E\u7231\u6709\u4E09\u65E5\u6708\u4E0E\u537F",
+      "sourceUrl": "http://52bsj.vip:81/api/v3/file/get/67776/1.json?sign=Suz6jqs5w4g4FFTohPyWDC82QQdpOkbs8UN4OR9QJsI%3D%3A0"
+    
+
+{
+    "storeHouse": [
+        {
+            "sourceName": "🐼饭太硬",
+            "sourceUrl": "http://饭太硬.top/tv"
+        },
+        {
+        "sourceName": "🐎小米",
+            "sourceUrl": "http://xhww.fun:63/小米/DEMO.json"
+        },
+        {
+        "sourceName": "🐧肥猫",
+            "sourceUrl": "http://我不是.肥猫.love:63/接口禁止贩卖"
+        },
+                {
+                "sourceName": "🐘好人",
+            "sourceUrl": "https://xhdwc.tk/0"
+            },
+                {
+                "sourceName": "🦝黑猫影视",
+            "sourceUrl": "https://codeberg.org/AK47/online/raw/branch/main/%E9%BB%91%E7%8C%AB%E5%BD%B1%E8%A7%86.json"
+        },
+        {
+            "sourceName": "🐰猫爪js_0715",
+            "sourceUrl": "https://codeberg.org/AK47/drpy-js/raw/branch/main/js.json"
+        },
+                {
+            "sourceName": "😈心魔",
+            "sourceUrl": "https://codeberg.org/AK47/tvbox/raw/branch/main/yw.json"
+        },
+
+                {
+           "sourceName": "🦜运输车",
+            "sourceUrl": "https://weixine.net/ysc.json"
+        },
+        {
+        "sourceName": "🐬猎狼",
+            "sourceUrl": "http://www.tvbox.lltv8.top/TVBox/lib/猎狼TV吧.json"
+        },
+        {
+           "sourceName": "🦅月光宝盒",
+            "sourceUrl": "https://jihulab.com/ygbh1/box/-/raw/main/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92"
+        },
+        {
+        "sourceName": "🦉夜猫子",
+            "sourceUrl": "https://download.kstore.space/download/3313/mao/ymz"
+        },
+        {
+            "sourceName": "😹云星日记"
+            "sourceUrl": "http://itvbox.cc/tvbox/云星日记/1.m3u8"
+        },
+        {
+            "sourceName": "🐏多多",
+            "sourceUrl": "https://yydsys.top/duo"
+        },
+        {
+             "sourceName": "☪夕✿晨",
+            "sourceUrl": "https://calendre.top/TVBox/YXHC.json"
+        },
+        {
+        "sourceName": "🦕星辰",
+            "sourceUrl": "http://8.210.232.168/xc.json"
+        },
+        {
+            "sourceName": "🐄tangs",
+            "sourceUrl": "https://agit.ai/VivoMax/tangs/raw/branch/master/tangs.json"
+        },
+        {
+        "sourceName": "🦏楞牛哥",
+            "sourceUrl": "http://tv.lengniuge.ga/yingshi"
+        },
+        {
+             "sourceName": "🦉潇洒",
+            "sourceUrl": "http://s.nxw.so/vip"
+        },
+        {
+             "sourceName": "🐓猫影视",
+            "sourceUrl": "http://111.67.196.181/"
+        },
+        {
+            "sourceName": "🦆俊于",
+            "sourceUrl": "http://home.jundie.top:81/top98.json"
+        },
+        {
+                "sourceName": "🐸菜妮丝",
+            "sourceUrl": "https://tvbox.cainisi.cf"
+        },
+        {
+        "sourceName": "🐝南风",
+            "sourceUrl": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"
+        },
+        {
+              "sourceName": "🦞荷城茶秀",
+            "sourceUrl": "http://rihou.cc:88/荷城茶秀"
+        },
+        {
+        "sourceName": "🦊warnig",
+            "sourceUrl": "https://agit.ai/wifi/ts/raw/branch/master/210.bmp"
+        },
+        {
+            "sourceName": "🦚月光宝盒",
+            "sourceUrl": "https://jihulab.com/ygbh1/box/-/raw/main/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92"
+        },
+        {
+              "sourceName": "🦢甜蜜",
+            "sourceUrl": "https://kebedd69.github.io/TVbox-interface/%E7%94%9C%E8%9C%9C.json"
+        },
+        {
+            "sourceName": "🐒源享家",
+            "sourceUrl": "https://源享家.ml/23424"
+        },
+        {
+            "sourceName": "🦅吾爱",
+            "sourceUrl": "http://52bsj.vip:98/wuai"
+        },
+        {
+                 "sourceName": "🐔喵影视",
+            "sourceUrl": "http://miaotvs.cn/meow"
+        },
+        {
+             "sourceName": "🦓老刘备",
+            "sourceUrl": "https://raw.iqiq.io/liu673cn/box/main/m.json"
+        },
+            {
+            "sourceName": "🦓18",
+            "sourceUrl": "https://ghproxy.com/raw.githubusercontent.com/sathew/CatVodSpider/main/json/18.json"
+        },
+        {
+           "sourceName": "🦓18+",
+            "sourceUrl": "https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json"
+    }
+  ]
+}
