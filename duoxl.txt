@@ -128,6 +128,6 @@
         {
             "url": "https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json",
             "name": "🦓18+"
-        },
+        }
     ]
 }
