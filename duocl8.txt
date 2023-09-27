@@ -1,5 +1,5 @@
-{"urls": 
-[
+{
+"urls": [
 {"url":"https://ghproxy.com/https://raw.githubusercontent.com/yyfxz/fl/main/xa2.json"，
   "name": "分享者18+"
 }，
