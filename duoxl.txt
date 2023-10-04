@@ -116,18 +116,6 @@
         {
             "url": "http://miaotvs.cn/meow",
             "name": "🐔喵影视"
-        },
-        {
-            "url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
-            "name": "🦓老刘备"
-        },
-            {
-            "url": "https://ghproxy.com/raw.githubusercontent.com/sathew/CatVodSpider/main/json/18.json",
-            "name": "🦓18"
-        },
-        {
-            "url": "https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json",
-            "name": "🦓18+"
         }
     ]
 }
