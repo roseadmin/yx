@@ -1,9 +1,8 @@
 // 自动从 地址发布页 获取&跳转url地址
-import { Crypto, load, _ } from './lib/cat.js';
+import { Crypto, load, _ } from 'assets://js/lib/cat.js';
 
 let key = 'czzy';
-let host = 'https://www.czzy.site'; // 厂长地址发布页
-// let url = 'https://cz01.cc';
+let host = 'https://cz01.vip/'; // 厂长地址发布页
 let url = '';
 let siteKey = '';
 let siteType = 0;
@@ -49,9 +48,37 @@ async function request(reqUrl, referer, mth, data, hd) {
 async function init(cfg) {
     siteKey = cfg.skey;
     siteType = cfg.stype;
-    let html = await request(host);
-    url = html.match(/推荐访问<a href="(.*)"/)[1];
+    url = await checkValidUrl(cfg.ext);
     console.debug('厂长跳转地址 =====>' + url); // js_debug.log
+}
+
+async function checkValidUrl(ext) {
+    let validUrl = ext;
+    if (_.isEmpty(ext)) {
+        let html = await request(host);
+        let matches = html.matchAll(/推荐访问<a href="(.*)"/g);
+        for (let match of matches) {
+            try {
+                let rcmdUrl = match[1];
+                let res = await req(rcmdUrl, {
+                    method: 'get',
+                    headers: {
+                        'User-Agent': UA,
+                    },
+                    redirect: 0,
+                });
+                let location = res.headers['location'];
+                if (!_.isEmpty(location)) {
+                    validUrl = location;
+                } else {
+                    validUrl = rcmdUrl;
+                    break;
+                }
+            } catch(e) {
+            }
+        }
+    }
+    return validUrl;
 }
 
 async function home(filter) {
